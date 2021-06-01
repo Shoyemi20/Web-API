@@ -1,0 +1,232 @@
+body {
+  background: url("back.jfif");
+}
+.h1 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 100px;
+}
+.weather-container {
+  background: #ccc;
+  text-align: center;
+}
+.weather {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container2 {
+  background: #ac7272;
+  text-align: center;
+}
+.weather2 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp2 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container3 {
+  background: #74a86b;
+  text-align: center;
+}
+.weather3 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp3 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container4 {
+  background: #50caba;
+  text-align: center;
+}
+.weather4 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp4 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container5 {
+  background: #b98e3d;
+  text-align: center;
+}
+.weather5 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp5 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container6 {
+  background: #3835b8;
+  text-align: center;
+}
+.weather6 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp6 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container7 {
+  background: #412d4d;
+  text-align: center;
+}
+.weather7 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp7 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container8 {
+  background: #97617c;
+  text-align: center;
+}
+.weather8 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp8 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container9 {
+  background: #86482c;
+  text-align: center;
+}
+.weather9 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp9 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container10 {
+  background: #b8ccc9;
+  text-align: center;
+}
+.weather10 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp10 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container11 {
+  background: #607881;
+  text-align: center;
+}
+.weather11 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp11 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container12 {
+  background: #aaa4bb;
+  text-align: center;
+}
+.weather12 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp12 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container13 {
+  background: #b3c003;
+  text-align: center;
+}
+.weather13 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp13 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container14 {
+  background: #4e56c4;
+  text-align: center;
+}
+.weather14 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp14 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
+
+.weather-container15 {
+  background: #6e55a8;
+  text-align: center;
+}
+.weather15 {
+  font-size: 22px;
+  margin: 0;
+}
+
+.temp15 {
+  font-size: 60px;
+  margin: 0;
+  font-weight: bold;
+}
